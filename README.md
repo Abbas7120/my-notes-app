@@ -1,4 +1,5 @@
 ## Folder structure :-
+
 notes-app/
 ├── configDB/
 │   ├── db.js
