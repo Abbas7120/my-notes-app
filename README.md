@@ -14,7 +14,7 @@ notes-app/
 ├── routes/
 │   ├── authRoutes.js
 │   └── notesRoutes.js
-├── .env.example
+├── .env
 ├── package.json
 └── server.js
 ```
